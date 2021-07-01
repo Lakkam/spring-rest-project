@@ -1,0 +1,15 @@
+{
+"empId":1001,
+"empName":"Lakkam",
+"empDesignation":"Manager"
+}
+{
+"empId":1002,
+"empName":"Nani",
+"empDesignation":"Employee"
+}
+{
+"empId":1003,
+"empName":"Prachu",
+"empDesignation":"User"
+}
